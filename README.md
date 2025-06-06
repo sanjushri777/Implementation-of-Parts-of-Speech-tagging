@@ -1,6 +1,7 @@
 
 # Word2Vec-Based Word Embedding and Similarity Analysis
-
+## NAME: SANJUSHRI A
+## REGNO:212223040187
 ## AIM:
 To implement word embedding using the Word2Vec model from Gensim, which captures semantic relationships between words by representing them in a dense vector space.
 
